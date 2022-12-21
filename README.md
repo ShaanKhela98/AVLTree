@@ -1,6 +1,4 @@
 # AVLTree
-Self-balancing binary search tree constructed using text file 
-
 
 An AVL tree is a type of binary search tree. Named after it's inventors Adelson, Velskii, and Landis, AVL trees have the property of dynamic self-balancing in addition to all the other properties exhibited by binary search trees. A BST is a data structure composed of nodes.
 
