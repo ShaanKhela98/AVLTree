@@ -19,5 +19,7 @@ To run program, you must have Python3 installed.
   - Open terminal where main.py + tree.py are located
   - Type in terminal "python3 main.py"
   - Enjoy!
+  
+![Tree files](https://user-images.githubusercontent.com/39349742/208856126-312441a0-5f70-4b46-ba76-e85831f9dd89.png)
 
 ![Sample screenshot of terminal](https://user-images.githubusercontent.com/39349742/208855095-12a0a379-f6b5-4b7d-8995-92f3b092cc59.png)
