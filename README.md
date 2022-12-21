@@ -8,10 +8,15 @@ How program works is that it reads in a text file and uses the commands along wi
 Text file commands:
 ---------------------
 BuildTree (weight value), (root value) - uses a weighted value to compare tree heights (left vs right) and rebalances with new root + leaf values
+
 Insert (value)
+
 Delete (value)
+
 Search (value)
+
 Print (Tree)
+
 Done (exits program)
 
 
