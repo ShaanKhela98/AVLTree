@@ -20,6 +20,8 @@ Print (Tree)
 Done (exits program)
 
 
+How to operate program
+-------------------------
 To run program, you must have Python3 installed.
   - Open terminal where main.py + tree.py are located
   - Type in terminal "python3 main.py"
